@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>11-lightbox.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>welcome.jpg</file>
+  </qresource>
+</RCC>
